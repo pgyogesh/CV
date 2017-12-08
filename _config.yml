@@ -2,8 +2,8 @@
 
 # Website settings
 title: pgyogesh
-description: My CV at http://cv.jarrekk.com
-keywords: Jack,jiakun,jia,kun,cv,resume
+description: My CV at https://pgyogesh.github.io/cv
+keywords: Yogesh Jadhav,cv,resume
 baseurl:  /cv
 url: https://pgyogesh.github.io/cv
 # url: http://127.0.0.1:4000
@@ -26,4 +26,3 @@ markdown: kramdown
 kramdown:
   input: GFM
   syntax_highlighter: rouge
-  

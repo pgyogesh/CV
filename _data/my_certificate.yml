@@ -1,6 +1,7 @@
 # My certificate
 
-- name: RHCE
-  name-cn: RHCE
-  details:  2014-2
-  details-cn: 2014-2
+- name: MarkLogic Fundamentals
+  details:  2017-1
+
+- name: Administering MarkLogic Server
+  details: 2017-6
