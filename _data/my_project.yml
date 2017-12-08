@@ -1,0 +1,10 @@
+# My project
+
+- name: Greenlum
+  language: Python, Shell, SQL
+  desc: Greenplum Repository is collection of Python, Shell and SQL scripts for Greenplum Database Administrator.
+
+- name: MarkLogic
+  language: Python, XQuery
+  desc: MarkLogic Repository is collection scripts, notes for MarkLogic Database Administrator.
+
