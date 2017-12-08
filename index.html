@@ -145,7 +145,17 @@ permalink: /
         <br>
         {% endfor %}
       </div>
-
+      
+      <div id="certificate">
+        <i class="fa fa-certificate fa-lg"></i> <p class="item">Certificate</p>
+        <hr>
+        <ul>
+          {% for certificate in site.data.my_certificate %}
+          <li><span class="arial-rounded">{{ certificate.name }}</span><span class="trebuchet">{{ certificate.details }}</span></li>
+          {% endfor%}
+        </ul>
+      </div>
+      
       <div id="language" style="display: inline-block;width: 100%;">
         <i class="fa fa-book fa-lg"></i> <p class="item">Training</p>
         <hr>
