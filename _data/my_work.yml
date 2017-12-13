@@ -9,5 +9,11 @@
 - company: Wipro Technologies
   location: Bangalore, India
   title: Greenplum Support Engineer
-  fromto: 2014-10~2016-11
-  desc: Wipro Technologies is multinational indian company. Here I worked as Greenplum Database Support Engineer for Pivotal Inc.(Our Client). While working here, I have supported global customer of Greenplum Database.
+  fromto: 2014-10~2015-4
+  desc: Wipro Technologies is multinational indian company. Here I worked as Greenplum Database Support Engineer for Pivotal Inc.(Our Client). While working here, I have supported global customer of Greenplum Database with all types of DB issues and failures.
+
+- company: Wipro Technologies
+  location: Bangalore, India
+  title: DCA Support Engineer
+  fromto: 2015-4~2016-11
+  desc:Here I worked as EMC DCA Support Engineer for EMC(Our Client). While working here, I supported global customers of EMC Data Computing Appliances with all types of hardware issues and failures.
